@@ -1,0 +1,19 @@
+{
+  "name": "challenge-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phylis13/challenge-3.git"
+  },
+  "author": "Phylis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phylis13/challenge-3/issues"
+  },
+  "homepage": "https://github.com/phylis13/challenge-3#readme"
+}
