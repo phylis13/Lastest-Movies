@@ -12,10 +12,7 @@ The program has html, css, javascript languages that makes it run.
 
 
 ## Author
-The program is created by Vincent Chisaka
-
-## Contributions
-The project was collaborated with abzed .
+The program is created by phylis njeri
 
 ## License
 ISC-Licensed.
