@@ -1,6 +1,6 @@
 # CodeChallange3
 ## Project Title
-The title of the project is the title of the "korea heater".
+The title of the project is the title of the "korea theater".
 
 ## Project Description
 The program runs when one buys a ticket from the Website. The user selects the movie he/she wants to watch and immediately the programs lets her choose and enter the amount of tickets needed.
