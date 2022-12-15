@@ -8,7 +8,8 @@ The program runs when one buys a ticket from the Website. The user selects the m
 ## How the program runs
 The program runs with db.json server. 
 The program has html, css, javascript languages that makes it run.
-# link http://127.0.0.1:5500/public/index.html
+# link  https://phylis13.github.io/challenge-3/
+
 
 
 ## Author
