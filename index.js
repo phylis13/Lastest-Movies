@@ -1,7 +1,7 @@
 function fetchData() {
-  fetch("http://localhost:3000/films")
+  fetch("https://phylis13.github.io/challenge-3/db.json")
     .then((response) => response.json())
-    .then((data) => appendFirstMovie(data));
+    .then((data) => appendFirstMovie(data.films));
 }
 fetchData();
 
@@ -41,9 +41,9 @@ function appendFirstMovie(data) {
 
 //fetches list of movies in the menu section
 function appendMenu() {
-  fetch("http://localhost:3000/films")
+  fetch("https://phylis13.github.io/challenge-3/db.json")
     .then((response) => response.json())
-    .then((data) => menuTitles(data));
+    .then((data) => menuTitles(data.films));
 }
 appendMenu();
 
