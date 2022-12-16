@@ -19,7 +19,7 @@ function appendFirstMovie(data) {
   let button = document.createElement("button");
   button.id = "btn";
   button.textContent = "Buy Ticket";
-  let total = first.capacity - first.tickets.sold;
+  let total = first.capacity - first.tickets_sold;
   button.addEventListener("click", () => {
     if (total > 0) {
       total -= 1;
